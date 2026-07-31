@@ -36,4 +36,4 @@ https://www.figma.com/design/p0mVXewJimaxPM18cE8vjw/Portfolio-UI---Web---Mobile-
 
 ## Live Demo
 
-Paste your GitHub Pages link here.
+https://johnquyt3824.github.io/portfolio-website/
